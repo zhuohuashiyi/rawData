@@ -1,0 +1,5 @@
+node convergence rate: 0.01
+convergence time: 5626561884 ns
+total packet the network send: 4
+infected nodes every gossip epoch: [1, 1, 1, 1]
+convergence_rate_every_epoch: [0.0, 0.0, 0.01, 0.01]
