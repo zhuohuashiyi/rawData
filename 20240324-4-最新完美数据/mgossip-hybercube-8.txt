@@ -1,0 +1,100 @@
+node convergence rate: 1.00
+convergence time: 1615283532 ns
+total packet the network send: 7307
+infected nodes every gossip epoch: [15, 139, 95, 7]
+convergence_rate_every_epoch: [0.06, 0.6, 0.97, 1.0]
+node convergence rate: 1.00
+convergence time: 1639108133 ns
+total packet the network send: 7310
+infected nodes every gossip epoch: [15, 131, 106, 4]
+convergence_rate_every_epoch: [0.06, 0.57, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 1609302746 ns
+total packet the network send: 7316
+infected nodes every gossip epoch: [39, 153, 62, 2]
+convergence_rate_every_epoch: [0.15, 0.75, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 1538262973 ns
+total packet the network send: 7317
+infected nodes every gossip epoch: [41, 139, 74, 2]
+convergence_rate_every_epoch: [0.16, 0.7, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 1728717892 ns
+total packet the network send: 7317
+infected nodes every gossip epoch: [9, 123, 120, 4]
+convergence_rate_every_epoch: [0.04, 0.52, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 1507802061 ns
+total packet the network send: 7312
+infected nodes every gossip epoch: [30, 151, 74, 1]
+convergence_rate_every_epoch: [0.12, 0.71, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1676344282 ns
+total packet the network send: 7305
+infected nodes every gossip epoch: [16, 130, 107, 3]
+convergence_rate_every_epoch: [0.06, 0.57, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 1549569293 ns
+total packet the network send: 7316
+infected nodes every gossip epoch: [44, 162, 49, 1]
+convergence_rate_every_epoch: [0.17, 0.8, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1694839924 ns
+total packet the network send: 7311
+infected nodes every gossip epoch: [8, 79, 151, 18]
+convergence_rate_every_epoch: [0.03, 0.34, 0.93, 1.0]
+node convergence rate: 1.00
+convergence time: 1586781718 ns
+total packet the network send: 7327
+infected nodes every gossip epoch: [55, 148, 52, 1]
+convergence_rate_every_epoch: [0.21, 0.79, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1438100706 ns
+total packet the network send: 7318
+infected nodes every gossip epoch: [54, 162, 40]
+convergence_rate_every_epoch: [0.21, 0.84, 1.0]
+node convergence rate: 1.00
+convergence time: 1817720928 ns
+total packet the network send: 7310
+infected nodes every gossip epoch: [9, 82, 143, 22]
+convergence_rate_every_epoch: [0.04, 0.36, 0.91, 1.0]
+node convergence rate: 1.00
+convergence time: 1724142610 ns
+total packet the network send: 7298
+infected nodes every gossip epoch: [15, 111, 121, 9]
+convergence_rate_every_epoch: [0.06, 0.49, 0.96, 1.0]
+node convergence rate: 1.00
+convergence time: 1768237674 ns
+total packet the network send: 7315
+infected nodes every gossip epoch: [10, 111, 127, 8]
+convergence_rate_every_epoch: [0.04, 0.47, 0.97, 1.0]
+node convergence rate: 1.00
+convergence time: 2048011735 ns
+total packet the network send: 7311
+infected nodes every gossip epoch: [4, 39, 182, 30, 1]
+convergence_rate_every_epoch: [0.02, 0.17, 0.88, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1278884982 ns
+total packet the network send: 7320
+infected nodes every gossip epoch: [43, 176, 37]
+convergence_rate_every_epoch: [0.17, 0.86, 1.0]
+node convergence rate: 1.00
+convergence time: 2119631921 ns
+total packet the network send: 7311
+infected nodes every gossip epoch: [8, 89, 147, 11, 1]
+convergence_rate_every_epoch: [0.03, 0.38, 0.95, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1439348319 ns
+total packet the network send: 7323
+infected nodes every gossip epoch: [24, 158, 74]
+convergence_rate_every_epoch: [0.09, 0.71, 1.0]
+node convergence rate: 1.00
+convergence time: 1645193722 ns
+total packet the network send: 7305
+infected nodes every gossip epoch: [10, 97, 144, 5]
+convergence_rate_every_epoch: [0.04, 0.42, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 1510667898 ns
+total packet the network send: 7313
+infected nodes every gossip epoch: [19, 139, 97, 1]
+convergence_rate_every_epoch: [0.07, 0.62, 1.0, 1.0]

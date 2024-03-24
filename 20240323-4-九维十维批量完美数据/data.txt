@@ -1,0 +1,36 @@
+mgossip-hybercube-9.txt
+total test cases: 20
+mean convergence time: 1922.88
+drop max 10% and min 10% mean convergence time: 1927.51
+min 25 % mean convergence time: 1717.75
+var and std of convergence time: (23072.94, 151.9)
+mean send packet count: 14665.75
+drop max 10% and min 10% mean send packet count: 14660.81
+var and std of send packet count: (1421.39, 37.7)
+gossip-hybercube-9.txt
+total test cases: 20
+mean convergence time: 2198.26
+drop max 10% and min 10% mean convergence time: 2174.09
+min 25 % mean convergence time: 1930.13
+var and std of convergence time: (59732.22, 244.4)
+mean send packet count: 1800868.65
+drop max 10% and min 10% mean send packet count: 1804706.56
+var and std of send packet count: (2072408804.43, 45523.72)
+gossip-hybercube-10.txt
+total test cases: 20
+mean convergence time: 2414.61
+drop max 10% and min 10% mean convergence time: 2407.86
+min 25 % mean convergence time: 2206.0
+var and std of convergence time: (29728.93, 172.42)
+mean send packet count: 4022860.35
+drop max 10% and min 10% mean send packet count: 4018563.44
+var and std of send packet count: (4611821180.53, 67910.39)
+mgossip-hybercube-10.txt
+total test cases: 20
+mean convergence time: 2157.4
+drop max 10% and min 10% mean convergence time: 2156.15
+min 25 % mean convergence time: 1948.4
+var and std of convergence time: (23702.23, 153.96)
+mean send packet count: 37093.25
+drop max 10% and min 10% mean send packet count: 37090.31
+var and std of send packet count: (47546.49, 218.05)
