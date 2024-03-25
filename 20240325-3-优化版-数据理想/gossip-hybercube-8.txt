@@ -1,0 +1,100 @@
+node convergence rate: 1.00
+convergence time: 2307263184 ns
+total packet the network send: 559527
+infected nodes every gossip epoch: [8, 48, 129, 66, 5]
+convergence_rate_every_epoch: [0.03, 0.22, 0.72, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 2972157332 ns
+total packet the network send: 570687
+infected nodes every gossip epoch: [9, 58, 149, 38, 1, 1]
+convergence_rate_every_epoch: [0.04, 0.26, 0.84, 0.99, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2413148360 ns
+total packet the network send: 561934
+infected nodes every gossip epoch: [6, 48, 140, 58, 4]
+convergence_rate_every_epoch: [0.02, 0.21, 0.76, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 2598051649 ns
+total packet the network send: 565226
+infected nodes every gossip epoch: [9, 42, 128, 74, 2, 1]
+convergence_rate_every_epoch: [0.04, 0.2, 0.7, 0.99, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2269240395 ns
+total packet the network send: 563027
+infected nodes every gossip epoch: [6, 28, 117, 99, 6]
+convergence_rate_every_epoch: [0.02, 0.13, 0.59, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 2134141715 ns
+total packet the network send: 570541
+infected nodes every gossip epoch: [8, 56, 145, 46, 1]
+convergence_rate_every_epoch: [0.03, 0.25, 0.82, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2498378213 ns
+total packet the network send: 567253
+infected nodes every gossip epoch: [8, 55, 133, 59, 1]
+convergence_rate_every_epoch: [0.03, 0.25, 0.77, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2121207888 ns
+total packet the network send: 587347
+infected nodes every gossip epoch: [19, 74, 124, 34, 5]
+convergence_rate_every_epoch: [0.07, 0.36, 0.85, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 2176683352 ns
+total packet the network send: 551733
+infected nodes every gossip epoch: [7, 30, 138, 77, 4]
+convergence_rate_every_epoch: [0.03, 0.14, 0.68, 0.98, 1.0]
+node convergence rate: 1.00
+convergence time: 2199489958 ns
+total packet the network send: 577424
+infected nodes every gossip epoch: [13, 58, 143, 41, 1]
+convergence_rate_every_epoch: [0.05, 0.28, 0.84, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2218161955 ns
+total packet the network send: 564474
+infected nodes every gossip epoch: [8, 40, 143, 62, 3]
+convergence_rate_every_epoch: [0.03, 0.19, 0.75, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 2180326149 ns
+total packet the network send: 578545
+infected nodes every gossip epoch: [15, 74, 138, 27, 2]
+convergence_rate_every_epoch: [0.06, 0.35, 0.89, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 2088116306 ns
+total packet the network send: 569601
+infected nodes every gossip epoch: [9, 63, 144, 38, 2]
+convergence_rate_every_epoch: [0.04, 0.28, 0.84, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 2144479505 ns
+total packet the network send: 574981
+infected nodes every gossip epoch: [13, 71, 139, 30, 3]
+convergence_rate_every_epoch: [0.05, 0.33, 0.87, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 2641887275 ns
+total packet the network send: 568159
+infected nodes every gossip epoch: [8, 54, 135, 56, 2, 1]
+convergence_rate_every_epoch: [0.03, 0.24, 0.77, 0.99, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 1938173325 ns
+total packet the network send: 574338
+infected nodes every gossip epoch: [12, 81, 137, 26]
+convergence_rate_every_epoch: [0.05, 0.36, 0.9, 1.0]
+node convergence rate: 1.00
+convergence time: 2244038222 ns
+total packet the network send: 569722
+infected nodes every gossip epoch: [10, 50, 146, 49, 1]
+convergence_rate_every_epoch: [0.04, 0.23, 0.8, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2138297030 ns
+total packet the network send: 570276
+infected nodes every gossip epoch: [10, 56, 150, 38, 2]
+convergence_rate_every_epoch: [0.04, 0.26, 0.84, 0.99, 1.0]
+node convergence rate: 1.00
+convergence time: 2190728626 ns
+total packet the network send: 567262
+infected nodes every gossip epoch: [7, 49, 144, 55, 1]
+convergence_rate_every_epoch: [0.03, 0.22, 0.78, 1.0, 1.0]
+node convergence rate: 1.00
+convergence time: 2252379863 ns
+total packet the network send: 565569
+infected nodes every gossip epoch: [7, 63, 138, 44, 4]
+convergence_rate_every_epoch: [0.03, 0.27, 0.81, 0.98, 1.0]

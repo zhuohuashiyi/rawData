@@ -1,0 +1,54 @@
+mgossip-bus-4.txt
+total test cases: 20
+mean convergence time: 2926.22
+drop max 10% and min 10% mean convergence time: 2998.08
+min 25 % mean convergence time: 1712.09
+var and std of convergence time: (601483.96, 775.55)
+mean send packet count: 142.7
+drop max 10% and min 10% mean send packet count: 139.12
+var and std of send packet count: (854.21, 29.23)
+mgossip-hybercube-4.txt
+total test cases: 20
+mean convergence time: 1662.92
+drop max 10% and min 10% mean convergence time: 1645.66
+min 25 % mean convergence time: 1324.22
+var and std of convergence time: (79708.77, 282.33)
+mean send packet count: 200.5
+drop max 10% and min 10% mean send packet count: 200.25
+var and std of send packet count: (93.95, 9.69)
+gossip-bus-4.txt
+total test cases: 20
+mean convergence time: 1631.35
+drop max 10% and min 10% mean convergence time: 1607.26
+min 25 % mean convergence time: 1304.46
+var and std of convergence time: (90095.23, 300.16)
+mean send packet count: 7874.15
+drop max 10% and min 10% mean send packet count: 7912.69
+var and std of send packet count: (467185.73, 683.51)
+gossip-hybercube-4.txt
+total test cases: 20
+mean convergence time: 1751.1
+drop max 10% and min 10% mean convergence time: 1734.95
+min 25 % mean convergence time: 1388.3
+var and std of convergence time: (89795.99, 299.66)
+mean send packet count: 7616.75
+drop max 10% and min 10% mean send packet count: 7616.75
+var and std of send packet count: (391872.19, 626.0)
+gossip-ring-4.txt
+total test cases: 20
+mean convergence time: 1768.34
+drop max 10% and min 10% mean convergence time: 1723.6
+min 25 % mean convergence time: 1336.63
+var and std of convergence time: (148224.76, 385.0)
+mean send packet count: 7653.9
+drop max 10% and min 10% mean send packet count: 7691.31
+var and std of send packet count: (175824.39, 419.31)
+mgossip-ring-4.txt
+total test cases: 20
+mean convergence time: 2285.62
+drop max 10% and min 10% mean convergence time: 2392.56
+min 25 % mean convergence time: 1386.94
+var and std of convergence time: (314370.85, 560.69)
+mean send packet count: 174.0
+drop max 10% and min 10% mean send packet count: 170.88
+var and std of send packet count: (345.0, 18.57)
